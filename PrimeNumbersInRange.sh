@@ -1,4 +1,7 @@
 #!/bin/bash -x
+
+
+
 read -p "Enter a number1 : " num1
 read -p "Enter a number2 : " num2
 
