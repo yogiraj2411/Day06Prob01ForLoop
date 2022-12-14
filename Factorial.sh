@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 fact=1
 read -p "Enter a number to find its Factorial :" num
 for(( i=1; i<=num; i++ ))
