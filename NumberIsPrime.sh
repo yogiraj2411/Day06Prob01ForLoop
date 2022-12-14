@@ -1,8 +1,6 @@
 #!/bin/bash -x 
 #for loop practice
 
-
-
 read -p "Enter a number to check whether it is prime or not : " num
 count=0
 for(( i=1; i<=num; i++ ))
