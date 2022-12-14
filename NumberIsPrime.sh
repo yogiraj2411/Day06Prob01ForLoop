@@ -1,4 +1,5 @@
-#!/bin/bash -x
+#!/bin/bash -x 
+#for loop practice
 
 read -p "Enter a number to check whether it is prime or not : " num
 count=0
