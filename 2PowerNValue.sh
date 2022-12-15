@@ -1,6 +1,7 @@
 #!/bin/bash -x
 
 #Input is entered by Command Line
+
 n=$1
 for ((  i=0; i<=n; i++ ))
 do
